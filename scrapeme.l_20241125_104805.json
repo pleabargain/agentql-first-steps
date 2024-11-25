@@ -1,0 +1,84 @@
+{
+    "products": [
+        {
+            "name": "Bulbasaur",
+            "price": 63.0,
+            "thumbnail": "https://scrapeme.live/wp-content/uploads/2018/08/001-350x350.png"
+        },
+        {
+            "name": "Ivysaur",
+            "price": 87.0,
+            "thumbnail": "https://scrapeme.live/wp-content/uploads/2018/08/002-350x350.png"
+        },
+        {
+            "name": "Venusaur",
+            "price": 105.0,
+            "thumbnail": "https://scrapeme.live/wp-content/uploads/2018/08/003-350x350.png"
+        },
+        {
+            "name": "Charmander",
+            "price": 48.0,
+            "thumbnail": "https://scrapeme.live/wp-content/uploads/2018/08/004-350x350.png"
+        },
+        {
+            "name": "Charmeleon",
+            "price": 165.0,
+            "thumbnail": "https://scrapeme.live/wp-content/uploads/2018/08/005-350x350.png"
+        },
+        {
+            "name": "Charizard",
+            "price": 156.0,
+            "thumbnail": "https://scrapeme.live/wp-content/uploads/2018/08/006-350x350.png"
+        },
+        {
+            "name": "Squirtle",
+            "price": 130.0,
+            "thumbnail": "https://scrapeme.live/wp-content/uploads/2018/08/007-350x350.png"
+        },
+        {
+            "name": "Wartortle",
+            "price": 123.0,
+            "thumbnail": "https://scrapeme.live/wp-content/uploads/2018/08/008-350x350.png"
+        },
+        {
+            "name": "Blastoise",
+            "price": 76.0,
+            "thumbnail": "https://scrapeme.live/wp-content/uploads/2018/08/009-350x350.png"
+        },
+        {
+            "name": "Caterpie",
+            "price": 73.0,
+            "thumbnail": "https://scrapeme.live/wp-content/uploads/2018/08/010-350x350.png"
+        },
+        {
+            "name": "Metapod",
+            "price": 148.0,
+            "thumbnail": "https://scrapeme.live/wp-content/uploads/2018/08/011-350x350.png"
+        },
+        {
+            "name": "Butterfree",
+            "price": 162.0,
+            "thumbnail": "https://scrapeme.live/wp-content/uploads/2018/08/012-350x350.png"
+        },
+        {
+            "name": "Weedle",
+            "price": 25.0,
+            "thumbnail": "https://scrapeme.live/wp-content/uploads/2018/08/013-350x350.png"
+        },
+        {
+            "name": "Kakuna",
+            "price": 148.0,
+            "thumbnail": "https://scrapeme.live/wp-content/uploads/2018/08/014-350x350.png"
+        },
+        {
+            "name": "Beedrill",
+            "price": 168.0,
+            "thumbnail": "https://scrapeme.live/wp-content/uploads/2018/08/015-350x350.png"
+        },
+        {
+            "name": "Pidgey",
+            "price": 159.0,
+            "thumbnail": "https://scrapeme.live/wp-content/uploads/2018/08/016-350x350.png"
+        }
+    ]
+}
