@@ -2,6 +2,13 @@
 
 A Python script that scrapes product information from scrapeme.live/shop using AgentQL and Playwright. The script collects Pokemon product data, saves it in multiple formats, and organizes everything in timestamped project folders.
 
+## URL
+https://github.com/pleabargain/agentql-first-steps
+
+## motivation
+
+I wanted to see how easy it would be to scrape a website using AgentQL. And then I just started having fun building out the script. :)
+
 ## Features
 
 - Scrapes product information (name, price, thumbnail)
